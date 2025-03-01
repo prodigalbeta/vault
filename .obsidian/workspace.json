@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Refile.md",
+                "file": "Dev/Project Ideas/Programs/Baseball/e6_Score.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Refile"
+              "title": "e6_Score"
             }
           }
         ]
@@ -168,16 +168,16 @@
   },
   "active": "53db48331594d7b6",
   "lastOpenFiles": [
-    "Dev/Project Ideas/Programs/Baseball/e6_Stats.md",
-    "Dev/Project Ideas/Programs/Baseball",
     "Dev/Project Ideas/Project Ideas.md",
     "Dev/Project Ideas/Programs/Baseball/e6_Score.md",
+    "Refile.md",
+    "Dev/Project Ideas/Programs/Baseball/e6_Stats.md",
+    "Dev/Project Ideas/Programs/Baseball",
     "Dev/Project Ideas/Programs",
     "Dev/Project Ideas/Games",
     "Dev/Project Ideas/Games/The Paddock.md",
     "Dev/Project Ideas/Games/Blazeball.md",
     "Dev/Project Ideas",
-    "Refile.md",
     "Dev",
     "Personal",
     "Work",
