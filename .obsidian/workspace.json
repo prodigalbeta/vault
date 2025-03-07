@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53db48331594d7b6",
+            "id": "d1eba057d601c8bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Project Ideas/Programs/Baseball/e6_Score.md",
+                "file": "Personal/TTRPG Stuff/Mothership/Campaign 1/General Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "e6_Score"
+              "title": "General Notes"
             }
           }
         ]
@@ -166,10 +166,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53db48331594d7b6",
+  "active": "d1eba057d601c8bf",
   "lastOpenFiles": [
-    "Dev/Project Ideas/Project Ideas.md",
+    "Personal/TTRPG Stuff/Mothership/Campaign 1",
     "Dev/Project Ideas/Programs/Baseball/e6_Score.md",
+    "Personal/TTRPG Stuff/Mothership/Campaign 1/General Notes.md",
+    "Personal/TTRPG Stuff/Mothership",
+    "Personal/TTRPG Stuff",
+    "Dev/Project Ideas/Project Ideas.md",
     "Refile.md",
     "Dev/Project Ideas/Programs/Baseball/e6_Stats.md",
     "Dev/Project Ideas/Programs/Baseball",

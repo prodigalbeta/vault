@@ -11,8 +11,8 @@
 					- ex: `1s0.2S.bO.dp.2` (on-base single, no RBIs, advanced to 2nd with a stolen base, advanced to 3rd on BB, caught out in double play, second out of inning)
 				- Out
 					- (lettercode for method of out{too many to list right here})(fielders involved in play{1 for K})(.)(out # in inning)
-					- ex: k1.1 (called strike, first out of inning)
-					- ex: TP543.3 (triple play, 3rd baseman to 2nd baseman to 1st baseman, third out of inning)
+					- ex: `k1.1` (called strike, first out of inning)
+					- ex: `TP543.3` (triple play, 3rd baseman to 2nd baseman to 1st baseman, third out of inning)
 		- Traditional View
 			- More traditional Drawn View
 
