@@ -1,5 +1,6 @@
 {
   "propertiesInDocument": "source",
   "showLineNumber": false,
-  "vimMode": false
+  "vimMode": false,
+  "alwaysUpdateLinks": true
 }
