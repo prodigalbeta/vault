@@ -1,8 +1,5 @@
 # [[Setting]]
-* Far far future Milky Way galaxy
-* 1600ish years in the future, 3652
-* Cybernetic implants are readily available
-* FTL is very feasible, the differences lay in the quality of cryopods for extended trips
+
 ## [[Jobs and Leads]]
 
 # Factions
